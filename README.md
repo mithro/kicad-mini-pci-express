@@ -51,6 +51,7 @@ need;
    * 6.00 mils should be fine and supported by most places.
  * Minimum 0.60mm (~23.62 mils) trace element width.
    * Most places should support much better than this.
+ * Trace to board-edge clearance 0.55mm (~21.7 mils).
 
 ## mPCIe card requirements.
 
