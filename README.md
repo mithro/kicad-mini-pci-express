@@ -63,6 +63,23 @@ requirements plus a couple of extras.
    inserted into the socket. If you don't care about slowly destroying your
    socket then it kind of works. (IE **Don't do this with your $2000 laptop!**)
 
+Parts
+======================
+
+The following parts should work in theory:
+
+ * **UNTESTED!** - TE Connectivity / AMP - 2041119-1
+   * [1 for $0.72 @ Mouser](http://www.mouser.com/ProductDetail/TE-Connectivity-AMP/2041119-1/?qs=sGAEpiMZZMtWxQ3D3EXBN3JxM32iIIxxBU1I37AUdhw%3d)
+ * **UNTESTED!** - FCI - 10123824-A20LF
+   * [1 for $1.11 @ Mouser ](http://www.mouser.com/ProductDetail/FCI/10123824-A20LF/?qs=sGAEpiMZZMtWxQ3D3EXBN8%252bIMToTtTg7BVGtVxpLeEk%3d)
+ * **UNTESTED!** - JAE Electronics - MM60-52B1-G1-R850
+   * [1 for $1.59 @ Digikey](http://www.digikey.com/product-detail/en/MM60-52B1-G1-R850/670-2516-1-ND/2504806)
+   * [1 for $1.96 @ Mouser](http://www.mouser.com/ProductDetail/JAE-Electronics/MM60-52B1-E1-R650/?qs=sGAEpiMZZMtWxQ3D3EXBN7ApTxJ1wb7v9g%2f%2fwoAPCuU%3d)
+ * **UNTESTED!** - Molex Inc - 048338-0052
+   * [1 for $1.76 @ Digikey](http://www.digikey.com/product-detail/en/0483380052/WM9834CT-ND/4176649)
+ * **UNTESTED!** - Rabbit Semiconductor - 498-0090
+   * [1 for $2.38 @ Digikey](http://www.digikey.com/product-detail/en/498-0090/602-1271-ND/3482024)
+   * [1 for $2.38 @ Mouser](http://www.mouser.com/ProductDetail/Rabbit-Semiconductor/498-0090/?qs=sGAEpiMZZMtWxQ3D3EXBN4ZZA46zsq3PiF0nzWM4Pf8%3d)
 
 Contributing
 ======================
