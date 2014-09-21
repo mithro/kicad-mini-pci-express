@@ -81,6 +81,22 @@ The following parts should work in theory:
    * [1 for $2.38 @ Digikey](http://www.digikey.com/product-detail/en/498-0090/602-1271-ND/3482024)
    * [1 for $2.38 @ Mouser](http://www.mouser.com/ProductDetail/Rabbit-Semiconductor/498-0090/?qs=sGAEpiMZZMtWxQ3D3EXBN4ZZA46zsq3PiF0nzWM4Pf8%3d)
 
+
+mSATA
+======================
+
+Aparantly [mSATA also uses this connector](http://www.te.com/catalog/products/en?q=2041119-1)?
+Investigate!
+
+<blockquote>
+Mini-SATA (mSATA)
+The connector is similar in appearance to a PCI Express Mini Card interface,
+but is not electrically compatible; the data signals (TX±/RX± SATA, PETn0 PETp0
+PERn0 PERp0 PCI Express) need a connection to the SATA host controller instead
+of the PCI Express host controller.
+</blockquote>
+
+
 Contributing
 ======================
 
